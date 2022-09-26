@@ -1,2 +1,2 @@
-# Creating-Tables-for-AWS-Instance
-This python code will create and fill tables with fake data and put into an AWS instance
+# Creating Tables for AWS Instance
+This python code will create and fill tables with fake data and put it into an AWS instance. Inorder to fill up the tables with fake data I used a Python package called Faker. This is a template that you can use to write your own code since the tables for this code was made specifically for the project that I needed to do. Also dont forget to put in your own info to connect into your AWS instance.
